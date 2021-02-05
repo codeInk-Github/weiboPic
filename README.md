@@ -1,0 +1,2 @@
+# weiboPic
+ weiboSpider(no cookies)
